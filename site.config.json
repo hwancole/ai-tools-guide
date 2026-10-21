@@ -1,0 +1,29 @@
+{
+  "siteUrl": "https://hwancole.github.io",
+  "basePath": "/ai-tools-guide",
+  "defaultLang": "en",
+  "langs": {
+    "en": {
+      "label": "English",
+      "hreflang": "en",
+      "title": "AI Tools Guide",
+      "tagline": "Plain-English guides to getting real work done with AI tools",
+      "readMore": "Read more",
+      "updated": "Updated",
+      "latest": "Latest guides",
+      "home": "Home",
+      "minRead": "min read"
+    },
+    "es": {
+      "label": "Español",
+      "hreflang": "es",
+      "title": "Guía de Herramientas IA",
+      "tagline": "Guías claras para sacar partido real a las herramientas de inteligencia artificial",
+      "readMore": "Leer más",
+      "updated": "Actualizado",
+      "latest": "Últimas guías",
+      "home": "Inicio",
+      "minRead": "min de lectura"
+    }
+  }
+}
