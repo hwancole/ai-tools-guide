@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="34">
+    <rect x="140" y="110" width="920" height="410" rx="28" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <circle cx="190" cy="155" r="10" fill="#ff6b6b"/><circle cx="222" cy="155" r="10" fill="#ffc94d"/><circle cx="254" cy="155" r="10" fill="#4cd07d"/>
+    <text x="190" y="240" fill="#4f46e5" font-weight="700">ROLE</text><text x="370" y="240" fill="#334">You are a careful editor.</text>
+    <text x="190" y="300" fill="#4f46e5" font-weight="700">CONTEXT</text><text x="370" y="300" fill="#334">My audience is beginners.</text>
+    <text x="190" y="360" fill="#4f46e5" font-weight="700">TASK</text><text x="370" y="360" fill="#334">Rewrite this email.</text>
+    <text x="190" y="420" fill="#4f46e5" font-weight="700">FORMAT</text><text x="370" y="420" fill="#334">Under 120 words, 3 bullets.</text>
+    <rect x="370" y="452" width="22" height="40" fill="#4f46e5"/>
+  </g>
+</svg>
