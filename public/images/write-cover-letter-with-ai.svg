@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="110" y="110" width="270" height="180" rx="20" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="140" y="160" font-size="26" font-weight="700" fill="#4f46e5">Job posting</text>
+    <g fill="#d5d8f0"><rect x="140" y="185" width="210" height="12" rx="6"/><rect x="140" y="215" width="180" height="12" rx="6"/><rect x="140" y="245" width="200" height="12" rx="6"/></g>
+    <rect x="110" y="340" width="270" height="180" rx="20" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="140" y="390" font-size="26" font-weight="700" fill="#4f46e5">Resume</text>
+    <g fill="#d5d8f0"><rect x="140" y="415" width="210" height="12" rx="6"/><rect x="140" y="445" width="170" height="12" rx="6"/><rect x="140" y="475" width="200" height="12" rx="6"/></g>
+    <path d="M400 200 C 480 200, 480 315, 540 315 M400 430 C 480 430, 480 315, 540 315" fill="none" stroke="#4f46e5" stroke-width="8" stroke-linecap="round"/>
+    <path d="M560 315 h70" stroke="#4f46e5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M610 285 l35 30 l-35 30" fill="none" stroke="#4f46e5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M690 80 h330 l60 60 v410 h-390 z" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <path d="M1020 80 v60 h60" fill="#e0e3ff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="730" y="150" font-size="30" font-weight="700" fill="#334">Dear Ms. Rivera,</text>
+    <g fill="#d5d8f0">
+      <rect x="730" y="185" width="300" height="14" rx="7"/><rect x="730" y="215" width="270" height="14" rx="7"/><rect x="730" y="245" width="290" height="14" rx="7"/>
+      <rect x="730" y="295" width="300" height="14" rx="7"/><rect x="730" y="325" width="240" height="14" rx="7"/><rect x="730" y="355" width="280" height="14" rx="7"/>
+      <rect x="730" y="405" width="260" height="14" rx="7"/>
+    </g>
+    <rect x="730" y="290" width="300" height="24" rx="6" fill="#4f46e5" opacity="0.18"/>
+    <text x="730" y="480" font-size="26" fill="#334">Sincerely,</text>
+    <text x="730" y="515" font-size="26" font-weight="700" fill="#4f46e5">You</text>
+  </g>
+</svg>
