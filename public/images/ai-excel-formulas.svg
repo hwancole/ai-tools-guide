@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="90" y="150" width="380" height="200" rx="24" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="125" y="205" font-size="26" font-weight="700" fill="#4f46e5">You ask</text>
+    <text x="125" y="250" font-size="24" fill="#334">"Total of column C for</text>
+    <text x="125" y="285" font-size="24" fill="#334">the month in E2"</text>
+    <path d="M490 250 h90" stroke="#4f46e5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M560 220 l35 30 l-35 30" fill="none" stroke="#4f46e5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="630" y="90" width="490" height="450" rx="16" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <rect x="630" y="90" width="490" height="60" rx="16" fill="#e0e3ff"/>
+    <text x="655" y="130" font-size="22" font-weight="700" fill="#4f46e5">fx  =SUMIFS(C:C, A:A, ...)</text>
+    <g stroke="#d5d8f0" stroke-width="2">
+      <path d="M630 210 h490 M630 270 h490 M630 330 h490 M630 390 h490 M630 450 h490"/>
+      <path d="M720 150 v390 M840 150 v390 M960 150 v390"/>
+    </g>
+    <g font-size="20" fill="#667">
+      <text x="760" y="190">A</text><text x="880" y="190">C</text><text x="1000" y="190">F</text>
+      <text x="665" y="248">2</text><text x="665" y="308">3</text><text x="665" y="368">4</text><text x="665" y="428">5</text><text x="665" y="488">6</text>
+    </g>
+    <g fill="#d5d8f0">
+      <rect x="740" y="232" width="80" height="14" rx="7"/><rect x="740" y="292" width="70" height="14" rx="7"/><rect x="740" y="352" width="80" height="14" rx="7"/><rect x="740" y="412" width="60" height="14" rx="7"/>
+      <rect x="860" y="232" width="60" height="14" rx="7"/><rect x="860" y="292" width="80" height="14" rx="7"/><rect x="860" y="352" width="50" height="14" rx="7"/><rect x="860" y="412" width="70" height="14" rx="7"/>
+    </g>
+    <rect x="962" y="212" width="156" height="56" fill="#4f46e5" opacity="0.18" stroke="#4f46e5" stroke-width="4"/>
+    <text x="985" y="250" font-size="24" font-weight="700" fill="#4f46e5">4,820</text>
+  </g>
+</svg>
