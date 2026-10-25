@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="90" y="110" width="360" height="420" rx="20" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="125" y="170" font-size="28" font-weight="700" fill="#4f46e5">My notes</text>
+    <g stroke="#d5d8f0" stroke-width="6" stroke-linecap="round">
+      <path d="M125 220 h280 M125 265 h240 M125 310 h270 M125 355 h200 M125 400 h260 M125 445 h220"/>
+    </g>
+    <path d="M480 320 h90" stroke="#4f46e5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M550 290 l35 30 l-35 30" fill="none" stroke="#4f46e5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="650" y="150" width="400" height="230" rx="20" fill="#e0e3ff" stroke="#c7cbff" stroke-width="4" transform="rotate(-6 850 265)"/>
+    <rect x="630" y="130" width="400" height="230" rx="20" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="665" y="190" font-size="22" font-weight="700" fill="#4f46e5">FLASHCARD</text>
+    <text x="665" y="250" font-size="30" fill="#334">What causes the</text>
+    <text x="665" y="295" font-size="30" fill="#334">seasons on Earth?</text>
+    <rect x="630" y="400" width="400" height="120" rx="20" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="665" y="450" font-size="22" font-weight="700" fill="#4f46e5">QUIZ  8 / 10</text>
+    <rect x="665" y="475" width="260" height="16" rx="8" fill="#e0e3ff"/>
+    <rect x="665" y="475" width="208" height="16" rx="8" fill="#4f46e5"/>
+    <circle cx="1080" cy="460" r="45" fill="#22a06b"/>
+    <path d="M1058 460 l15 15 l28 -30" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
