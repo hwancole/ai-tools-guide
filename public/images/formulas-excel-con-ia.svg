@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#e9f6ef"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="80" y="140" width="420" height="230" rx="24" fill="#fff" stroke="#b6e0c8" stroke-width="4"/>
+    <text x="115" y="195" font-size="26" font-weight="700" fill="#1f7a4a">Tú pides</text>
+    <text x="115" y="242" font-size="24" fill="#2f3b35">"Suma la columna C</text>
+    <text x="115" y="277" font-size="24" fill="#2f3b35">del mes que pongo</text>
+    <text x="115" y="312" font-size="24" fill="#2f3b35">en E2"</text>
+    <path d="M520 255 h80" stroke="#1f7a4a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M580 225 l35 30 l-35 30" fill="none" stroke="#1f7a4a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="640" y="90" width="480" height="450" rx="16" fill="#fff" stroke="#b6e0c8" stroke-width="4"/>
+    <rect x="640" y="90" width="480" height="60" rx="16" fill="#d3efdf"/>
+    <text x="662" y="130" font-size="21" font-weight="700" fill="#1f7a4a">fx  =SUMAR.SI.CONJUNTO(C:C; ...)</text>
+    <g stroke="#d6e9de" stroke-width="2">
+      <path d="M640 210 h480 M640 270 h480 M640 330 h480 M640 390 h480 M640 450 h480"/>
+      <path d="M720 150 v390 M840 150 v390 M960 150 v390"/>
+    </g>
+    <g font-size="20" fill="#5d6e64">
+      <text x="770" y="190">A</text><text x="890" y="190">C</text><text x="1030" y="190">F</text>
+      <text x="672" y="248">2</text><text x="672" y="308">3</text><text x="672" y="368">4</text><text x="672" y="428">5</text><text x="672" y="488">6</text>
+    </g>
+    <g fill="#d6e9de">
+      <rect x="740" y="232" width="80" height="14" rx="7"/><rect x="740" y="292" width="70" height="14" rx="7"/><rect x="740" y="352" width="80" height="14" rx="7"/><rect x="740" y="412" width="60" height="14" rx="7"/>
+      <rect x="860" y="232" width="60" height="14" rx="7"/><rect x="860" y="292" width="80" height="14" rx="7"/><rect x="860" y="352" width="50" height="14" rx="7"/><rect x="860" y="412" width="70" height="14" rx="7"/>
+    </g>
+    <rect x="962" y="212" width="156" height="56" fill="#1f7a4a" opacity="0.18" stroke="#1f7a4a" stroke-width="4"/>
+    <text x="995" y="250" font-size="24" font-weight="700" fill="#1f7a4a">4.820</text>
+  </g>
+</svg>
