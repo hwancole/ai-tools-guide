@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="100" y="140" width="320" height="350" rx="20" fill="#fffbe6" stroke="#f0e2a8" stroke-width="4"/>
+    <text x="135" y="195" font-size="28" font-weight="700" fill="#8a6d00">My notes</text>
+    <g fill="#8a6d00"><circle cx="145" cy="246" r="7"/><circle cx="145" cy="306" r="7"/><circle cx="145" cy="366" r="7"/><circle cx="145" cy="426" r="7"/></g>
+    <g fill="#ecdca0"><rect x="170" y="240" width="210" height="13" rx="6"/><rect x="170" y="300" width="170" height="13" rx="6"/><rect x="170" y="360" width="200" height="13" rx="6"/><rect x="170" y="420" width="140" height="13" rx="6"/></g>
+    <path d="M470 315 h110" stroke="#4f46e5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M555 280 l38 35 l-38 35" fill="none" stroke="#4f46e5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="640" y="90" width="460" height="450" rx="20" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <rect x="640" y="90" width="460" height="64" rx="20" fill="#4f46e5"/>
+    <rect x="640" y="130" width="460" height="24" fill="#4f46e5"/>
+    <text x="675" y="133" font-size="26" font-weight="700" fill="#fff">New message</text>
+    <text x="675" y="200" font-size="22" fill="#667">To: sam@example.com</text>
+    <line x1="675" y1="218" x2="1065" y2="218" stroke="#e3e5f5" stroke-width="3"/>
+    <text x="675" y="255" font-size="22" font-weight="700" fill="#334">Contract by Friday?</text>
+    <line x1="675" y1="273" x2="1065" y2="273" stroke="#e3e5f5" stroke-width="3"/>
+    <text x="675" y="315" font-size="24" fill="#334">Hi Sam,</text>
+    <g fill="#d5d8f0"><rect x="675" y="340" width="370" height="14" rx="7"/><rect x="675" y="370" width="320" height="14" rx="7"/><rect x="675" y="400" width="350" height="14" rx="7"/></g>
+    <rect x="675" y="460" width="130" height="50" rx="25" fill="#4f46e5"/>
+    <text x="712" y="493" font-size="22" font-weight="700" fill="#fff">Send</text>
+    <g fill="#4f46e5"><path d="M1010 470 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8 z"/><path d="M1055 455 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z" opacity="0.6"/></g>
+  </g>
+</svg>
