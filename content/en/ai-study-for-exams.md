@@ -2,6 +2,7 @@
 title: "How to Use AI to Study for Exams (Step by Step)"
 description: "Use ChatGPT, Gemini, Claude or Gemini Notebook to study for exams: built-in study modes, flashcards and quizzes from your notes, a 7-day plan and prompts to copy."
 date: 2026-10-25
+updated: 2026-11-01
 key: ai-study-for-exams
 tags: [studying, students, chatgpt, gemini, claude, beginner]
 cover: /images/ai-study-for-exams.svg
@@ -25,7 +26,7 @@ All four options below have a free way in. Feature names and menus change often,
 
 A few details worth knowing:
 
-- **ChatGPT Study mode** uses the same message limits as normal chats, and it isn't available in Temporary Chats, GPTs or Projects. You can upload notes, worksheets, slides, PDFs and photos of problems if uploads are available on your plan.
+- **ChatGPT Study mode** uses the same message limits as normal chats. It works in regular and Temporary Chats, but not in GPTs or Projects. You can upload notes, worksheets, slides, PDFs and photos of problems if uploads are available on your plan.
 - **Gemini Guided Learning** is rolling out gradually in the mobile app, so the website is the most reliable place to find it.
 - **Gemini Notebook** has a free tier with "standard" usage limits that refresh every five hours; Google AI Plus, Pro and Ultra plans get higher limits. Flashcards can be shuffled, marked "Got it" or "Missed it", retaken with only the cards you missed, and downloaded as a CSV file.
 
