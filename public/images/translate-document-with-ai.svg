@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <path d="M130 110 h280 l70 70 v340 h-350 z" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <path d="M410 110 v70 h70" fill="#e0e3ff" stroke="#c7cbff" stroke-width="4"/>
+    <rect x="165" y="140" width="80" height="48" rx="8" fill="#4f46e5"/>
+    <text x="205" y="174" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">EN</text>
+    <text x="165" y="245" font-size="30" font-weight="700" fill="#1f2340">Welcome</text>
+    <g fill="#d5d8f0">
+      <rect x="165" y="280" width="270" height="14" rx="7"/><rect x="165" y="315" width="240" height="14" rx="7"/>
+      <rect x="165" y="350" width="270" height="14" rx="7"/><rect x="165" y="385" width="210" height="14" rx="7"/>
+      <rect x="165" y="430" width="120" height="60" rx="8"/><rect x="305" y="430" width="130" height="60" rx="8"/>
+    </g>
+    <circle cx="600" cy="315" r="62" fill="#fff" stroke="#4f46e5" stroke-width="6"/>
+    <path d="M565 300 h55 m-15 -18 l18 18 l-18 18" fill="none" stroke="#4f46e5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M635 335 h-55 m15 -18 l-18 18 l18 18" fill="none" stroke="#a5a8ff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M720 110 h280 l70 70 v340 h-350 z" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <path d="M1000 110 v70 h70" fill="#e0e3ff" stroke="#c7cbff" stroke-width="4"/>
+    <rect x="755" y="140" width="80" height="48" rx="8" fill="#16a34a"/>
+    <text x="795" y="174" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">ES</text>
+    <text x="755" y="245" font-size="30" font-weight="700" fill="#1f2340">Bienvenida</text>
+    <g fill="#d5d8f0">
+      <rect x="755" y="280" width="270" height="14" rx="7"/><rect x="755" y="315" width="250" height="14" rx="7"/>
+      <rect x="755" y="350" width="270" height="14" rx="7"/><rect x="755" y="385" width="190" height="14" rx="7"/>
+      <rect x="755" y="430" width="120" height="60" rx="8"/><rect x="895" y="430" width="130" height="60" rx="8"/>
+    </g>
+    <text x="600" y="580" font-size="34" font-weight="700" fill="#4f46e5" text-anchor="middle">Same layout, new language</text>
+  </g>
+</svg>
