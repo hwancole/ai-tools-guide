@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ecfdf5"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="90" y="140" width="380" height="350" rx="28" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <text x="125" y="200" font-size="28" font-weight="700" fill="#047857">Esquema</text>
+    <g font-size="22" fill="#334">
+      <text x="125" y="250">1. El problema</text>
+      <text x="125" y="295">2. Nuestra propuesta</text>
+      <text x="155" y="335" fill="#667">- cómo funciona</text>
+      <text x="125" y="380">3. Costes y plazos</text>
+      <text x="125" y="425">4. Próximos pasos</text>
+    </g>
+    <path d="M500 315 h100" stroke="#059669" stroke-width="10" stroke-linecap="round"/>
+    <path d="M575 280 l40 35 l-40 35" fill="none" stroke="#059669" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="690" y="70" width="420" height="236" rx="12" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <rect x="720" y="100" width="230" height="24" rx="8" fill="#10b981"/>
+    <g fill="#d1fae5"><rect x="720" y="150" width="170" height="12" rx="6"/><rect x="720" y="176" width="140" height="12" rx="6"/><rect x="720" y="202" width="155" height="12" rx="6"/></g>
+    <g fill="#059669"><rect x="940" y="225" width="32" height="55" rx="4"/><rect x="987" y="190" width="32" height="90" rx="4"/><rect x="1034" y="155" width="32" height="125" rx="4"/></g>
+    <rect x="690" y="330" width="420" height="236" rx="12" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <rect x="720" y="360" width="190" height="24" rx="8" fill="#10b981"/>
+    <g fill="#d1fae5"><rect x="720" y="410" width="80" height="120" rx="8"/><rect x="815" y="410" width="80" height="120" rx="8"/><rect x="910" y="410" width="80" height="120" rx="8"/></g>
+    <g fill="#059669"><circle cx="760" cy="445" r="16"/><circle cx="855" cy="445" r="16"/><circle cx="950" cy="445" r="16"/></g>
+    <g fill="#a7f3d0"><rect x="1005" y="420" width="80" height="12" rx="6"/><rect x="1005" y="446" width="65" height="12" rx="6"/><rect x="1005" y="472" width="75" height="12" rx="6"/></g>
+  </g>
+</svg>
