@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="90" y="200" width="420" height="190" rx="28" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="125" y="250" font-size="22" font-weight="700" fill="#4f46e5">Prompt</text>
+    <g fill="#d5d8f0">
+      <rect x="125" y="275" width="340" height="14" rx="7"/><rect x="125" y="305" width="300" height="14" rx="7"/>
+      <rect x="125" y="335" width="220" height="14" rx="7"/>
+    </g>
+    <rect x="430" y="330" width="50" height="34" rx="10" fill="#4f46e5"/>
+    <path d="M445 347 h20 m-8 -8 l8 8 l-8 8" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="600" cy="295" r="56" fill="#fff" stroke="#4f46e5" stroke-width="6"/>
+    <path d="M572 295 h50 m-16 -18 l18 18 l-18 18" fill="none" stroke="#4f46e5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="700" y="110" width="410" height="370" rx="28" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <clipPath id="pic"><rect x="730" y="140" width="350" height="310" rx="18"/></clipPath>
+    <g clip-path="url(#pic)">
+      <rect x="730" y="140" width="350" height="310" fill="#c7d2fe"/>
+      <circle cx="1000" cy="220" r="38" fill="#fbbf24"/>
+      <path d="M730 450 L830 300 L900 380 L980 270 L1080 410 L1080 450 Z" fill="#4f46e5"/>
+      <path d="M830 300 L860 345 L842 340 L820 316 Z M980 270 L1010 312 L990 308 L968 290 Z" fill="#fff"/>
+      <rect x="730" y="420" width="350" height="30" fill="#16a34a"/>
+    </g>
+    <path d="M1080 95 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8 z" fill="#4f46e5"/>
+    <path d="M690 470 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6 z" fill="#4f46e5"/>
+    <text x="600" y="580" font-size="34" font-weight="700" fill="#4f46e5" text-anchor="middle">De las palabras a la imagen, gratis</text>
+  </g>
+</svg>
