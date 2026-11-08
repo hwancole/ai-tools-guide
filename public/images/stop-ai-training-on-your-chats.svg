@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="100" y="110" width="520" height="370" rx="24" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <rect x="140" y="160" width="300" height="56" rx="28" fill="#e0e3ff"/>
+    <rect x="280" y="240" width="300" height="56" rx="28" fill="#4f46e5"/>
+    <rect x="140" y="320" width="340" height="56" rx="28" fill="#e0e3ff"/>
+    <g fill="#9aa0d8"><rect x="170" y="182" width="200" height="12" rx="6"/><rect x="170" y="342" width="250" height="12" rx="6"/></g>
+    <rect x="310" y="262" width="230" height="12" rx="6" fill="#c7cbff"/>
+    <rect x="140" y="410" width="440" height="40" rx="20" fill="#f3f4f6"/>
+    <rect x="700" y="150" width="400" height="120" rx="24" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <text x="735" y="200" font-size="24" font-weight="700" fill="#1f2937">Use my chats</text>
+    <text x="735" y="236" font-size="24" font-weight="700" fill="#1f2937">for training</text>
+    <rect x="960" y="185" width="100" height="52" rx="26" fill="#d1d5db"/>
+    <circle cx="987" cy="211" r="21" fill="#fff"/>
+    <text x="1010" y="262" font-size="16" font-weight="700" fill="#6b7280" text-anchor="middle">OFF</text>
+    <path d="M900 320 L990 352 V420 C990 470 950 505 900 525 C850 505 810 470 810 420 V352 Z" fill="#4f46e5"/>
+    <path d="M862 425 l26 26 l50 -56" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="600" y="585" font-size="34" font-weight="700" fill="#4f46e5" text-anchor="middle">Keep your chats out of AI training</text>
+  </g>
+</svg>
