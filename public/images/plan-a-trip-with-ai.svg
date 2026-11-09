@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="90" y="100" width="520" height="430" rx="24" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <rect x="130" y="140" width="250" height="52" rx="26" fill="#4f46e5"/>
+    <text x="155" y="175" font-size="24" font-weight="700" fill="#fff">My trip plan</text>
+    <g font-size="22" font-weight="700" fill="#1f2937">
+      <text x="130" y="252">Day 1</text><text x="130" y="332">Day 2</text><text x="130" y="412">Day 3</text>
+    </g>
+    <g fill="#e0e3ff">
+      <rect x="230" y="230" width="330" height="32" rx="16"/><rect x="230" y="310" width="290" height="32" rx="16"/><rect x="230" y="390" width="310" height="32" rx="16"/>
+    </g>
+    <g fill="#9aa0d8">
+      <rect x="250" y="241" width="200" height="10" rx="5"/><rect x="250" y="321" width="170" height="10" rx="5"/><rect x="250" y="401" width="220" height="10" rx="5"/>
+    </g>
+    <rect x="130" y="460" width="430" height="36" rx="18" fill="#f3f4f6"/>
+    <path d="M690 150 L840 110 L960 150 L1110 110 V480 L960 520 L840 480 L690 520 Z" fill="#fff" stroke="#c7cbff" stroke-width="4"/>
+    <path d="M840 110 V480 M960 150 V520" stroke="#e0e3ff" stroke-width="4"/>
+    <path d="M730 450 C790 400 800 330 870 320 S960 260 1010 220" fill="none" stroke="#4f46e5" stroke-width="6" stroke-dasharray="14 12" stroke-linecap="round"/>
+    <circle cx="730" cy="450" r="12" fill="#4f46e5"/>
+    <path d="M1010 230 C985 200 975 185 975 165 A35 35 0 0 1 1045 165 C1045 185 1035 200 1010 230 Z" fill="#ef4444"/>
+    <circle cx="1010" cy="165" r="13" fill="#fff"/>
+  </g>
+</svg>
