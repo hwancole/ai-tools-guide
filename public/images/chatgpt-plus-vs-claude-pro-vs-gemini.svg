@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef0ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif" text-anchor="middle">
+    <g stroke="#c7cbff" stroke-width="4">
+      <rect x="90" y="110" width="230" height="330" rx="24" fill="#fff"/>
+      <rect x="350" y="90" width="230" height="350" rx="24" fill="#fff"/>
+      <rect x="610" y="110" width="230" height="330" rx="24" fill="#fff"/>
+      <rect x="870" y="90" width="230" height="350" rx="24" fill="#fff"/>
+    </g>
+    <circle cx="205" cy="175" r="30" fill="#4f46e5"/>
+    <rect x="435" y="125" width="60" height="60" rx="14" fill="#7c3aed"/>
+    <path d="M725 145 L755 205 H695 Z" fill="#0ea5e9"/>
+    <rect x="955" y="125" width="60" height="60" rx="30" fill="#10b981"/>
+    <g font-size="44" font-weight="700" fill="#1f2937">
+      <text x="205" y="270">$20</text><text x="465" y="270">$20</text>
+      <text x="725" y="270">$20</text><text x="985" y="270">$20</text>
+    </g>
+    <g font-size="20" fill="#6b7280">
+      <text x="205" y="302">a month</text><text x="465" y="302">a month</text>
+      <text x="725" y="302">a month</text><text x="985" y="302">a month</text>
+    </g>
+    <g fill="#e0e3ff">
+      <rect x="130" y="340" width="150" height="14" rx="7"/><rect x="130" y="370" width="110" height="14" rx="7"/>
+      <rect x="390" y="340" width="150" height="14" rx="7"/><rect x="390" y="370" width="130" height="14" rx="7"/>
+      <rect x="650" y="340" width="150" height="14" rx="7"/><rect x="650" y="370" width="90" height="14" rx="7"/>
+      <rect x="910" y="340" width="150" height="14" rx="7"/><rect x="910" y="370" width="120" height="14" rx="7"/>
+    </g>
+    <text x="600" y="545" font-size="38" font-weight="700" fill="#4f46e5">Which $20 AI plan is worth it?</text>
+  </g>
+</svg>
