@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef6f2"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="90" y="120" width="440" height="390" rx="22" fill="#1f2937"/>
+    <rect x="115" y="150" width="190" height="140" rx="14" fill="#374151"/>
+    <rect x="315" y="150" width="190" height="140" rx="14" fill="#374151"/>
+    <rect x="115" y="300" width="190" height="140" rx="14" fill="#374151"/>
+    <rect x="315" y="300" width="190" height="140" rx="14" fill="#374151"/>
+    <g fill="#9ca3af"><circle cx="210" cy="205" r="26"/><circle cx="410" cy="205" r="26"/><circle cx="210" cy="355" r="26"/><circle cx="410" cy="355" r="26"/></g>
+    <g fill="#9ca3af"><rect x="170" y="240" width="80" height="34" rx="17"/><rect x="370" y="240" width="80" height="34" rx="17"/><rect x="170" y="390" width="80" height="34" rx="17"/><rect x="370" y="390" width="80" height="34" rx="17"/></g>
+    <circle cx="250" cy="475" r="16" fill="#ef4444"/>
+    <rect x="285" y="461" width="90" height="28" rx="14" fill="#4b5563"/>
+    <path d="M570 315 h100" stroke="#0f766e" stroke-width="10" stroke-linecap="round"/>
+    <path d="M645 280 l38 35 l-38 35" fill="none" stroke="#0f766e" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="720" y="90" width="400" height="450" rx="22" fill="#fff" stroke="#b7e0d2" stroke-width="4"/>
+    <text x="755" y="150" font-size="30" font-weight="700" fill="#134e4a">Meeting notes</text>
+    <text x="755" y="200" font-size="20" font-weight="700" fill="#0f766e">SUMMARY</text>
+    <g fill="#d6ece4"><rect x="755" y="215" width="320" height="13" rx="6"/><rect x="755" y="240" width="280" height="13" rx="6"/></g>
+    <text x="755" y="300" font-size="20" font-weight="700" fill="#0f766e">ACTION ITEMS</text>
+    <g fill="none" stroke="#0f766e" stroke-width="4"><rect x="755" y="320" width="26" height="26" rx="5"/><rect x="755" y="370" width="26" height="26" rx="5"/><rect x="755" y="420" width="26" height="26" rx="5"/></g>
+    <g fill="none" stroke="#0f766e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M760 333 l7 7 l13 -14"/><path d="M760 383 l7 7 l13 -14"/></g>
+    <g fill="#d6ece4"><rect x="800" y="327" width="250" height="13" rx="6"/><rect x="800" y="377" width="210" height="13" rx="6"/><rect x="800" y="427" width="230" height="13" rx="6"/></g>
+    <g fill="#0f766e"><path d="M1050 470 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8 z"/><path d="M1010 480 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z" opacity="0.6"/></g>
+  </g>
+</svg>
