@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef7f2"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="110" y="70" width="560" height="490" rx="28" fill="#fff" stroke="#bfe3cf" stroke-width="5"/>
+    <text x="150" y="130" font-size="26" font-weight="700" fill="#0f7a4f">Practice: Spanish (A2)</text>
+    <rect x="150" y="160" width="400" height="80" rx="20" fill="#e3f4ea"/>
+    <text x="175" y="210" font-size="28" fill="#234">¿Qué hiciste el fin de semana?</text>
+    <rect x="250" y="265" width="380" height="80" rx="20" fill="#0f7a4f"/>
+    <text x="275" y="315" font-size="28" fill="#fff">Fui a la playa con amigos.</text>
+    <rect x="150" y="370" width="400" height="80" rx="20" fill="#e3f4ea"/>
+    <text x="175" y="420" font-size="28" fill="#234">¡Qué bien! ¿Hizo calor?</text>
+    <circle cx="590" cy="500" r="34" fill="#0f7a4f"/>
+    <rect x="580" y="480" width="20" height="32" rx="10" fill="#fff"/>
+    <path d="M572 504 a18 18 0 0 0 36 0 M590 522 v8" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+    <rect x="730" y="70" width="360" height="220" rx="24" fill="#fff" stroke="#bfe3cf" stroke-width="4"/>
+    <text x="760" y="122" font-size="24" font-weight="700" fill="#0f7a4f">Correction</text>
+    <text x="760" y="170" font-size="26" fill="#b23a3a" text-decoration="line-through">Yo fui en la playa</text>
+    <text x="760" y="215" font-size="26" fill="#234">Fui a la playa</text>
+    <text x="760" y="258" font-size="20" fill="#567">"ir a" for destinations</text>
+    <rect x="730" y="320" width="360" height="240" rx="24" fill="#fff" stroke="#bfe3cf" stroke-width="4"/>
+    <text x="760" y="372" font-size="24" font-weight="700" fill="#0f7a4f">New words</text>
+    <g font-size="24" fill="#234">
+      <circle cx="770" cy="412" r="6" fill="#0f7a4f"/><text x="790" y="420">la playa · beach</text>
+      <circle cx="770" cy="460" r="6" fill="#0f7a4f"/><text x="790" y="468">hacer calor · be hot</text>
+      <circle cx="770" cy="508" r="6" fill="#0f7a4f"/><text x="790" y="516">el fin de semana</text>
+    </g>
+  </g>
+</svg>
