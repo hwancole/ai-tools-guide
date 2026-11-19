@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ecfdf5"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="140" y="70" width="280" height="490" rx="40" fill="#fff" stroke="#a7f3d0" stroke-width="6"/>
+    <rect x="235" y="92" width="90" height="12" rx="6" fill="#d1fae5"/>
+    <circle cx="280" cy="250" r="78" fill="#d1fae5"/>
+    <g stroke="#059669" stroke-width="10" stroke-linecap="round">
+      <path d="M235 250 v0"/><path d="M257 225 v50"/><path d="M280 205 v90"/><path d="M303 225 v50"/><path d="M325 250 v0"/>
+    </g>
+    <text x="280" y="380" font-size="26" font-weight="700" fill="#065f46" text-anchor="middle">Simulacro</text>
+    <text x="280" y="414" font-size="20" fill="#4b5563" text-anchor="middle">entrevista por voz</text>
+    <circle cx="280" cy="490" r="32" fill="#059669"/>
+    <rect x="270" y="472" width="20" height="30" rx="10" fill="#fff"/>
+    <rect x="500" y="110" width="580" height="160" rx="20" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <text x="535" y="160" font-size="22" font-weight="700" fill="#047857">PREGUNTA 3 DE 10</text>
+    <text x="535" y="205" font-size="26" fill="#1f2937">"Cuéntame una vez en que</text>
+    <text x="535" y="242" font-size="26" fill="#1f2937">resolviste un problema..."</text>
+    <rect x="500" y="310" width="580" height="210" rx="20" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <text x="535" y="360" font-size="22" font-weight="700" fill="#047857">COMENTARIOS</text>
+    <g font-size="23" fill="#374151">
+      <text x="575" y="405">Ejemplo claro y concreto</text>
+      <text x="575" y="445">Falta el resultado</text>
+      <text x="575" y="485">Un poco larga: 2:40 min</text>
+    </g>
+    <g font-size="24" font-weight="700">
+      <text x="540" y="405" fill="#059669">✓</text>
+      <text x="540" y="445" fill="#d97706">!</text>
+      <text x="540" y="485" fill="#d97706">!</text>
+    </g>
+  </g>
+</svg>
