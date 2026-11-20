@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fff7ed"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="80" y="110" width="420" height="410" rx="20" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+    <rect x="115" y="140" width="350" height="170" rx="14" fill="#ffedd5"/>
+    <path d="M245 185 h90 v80 a20 20 0 0 1 -20 20 h-50 a20 20 0 0 1 -20 -20 z" fill="#fff" stroke="#c2410c" stroke-width="5"/>
+    <path d="M335 205 h18 a18 18 0 0 1 0 36 h-18" fill="none" stroke="#c2410c" stroke-width="5"/>
+    <circle cx="270" cy="220" r="3" fill="#9a3412"/><circle cx="300" cy="245" r="3" fill="#9a3412"/><circle cx="315" cy="210" r="3" fill="#9a3412"/>
+    <text x="115" y="355" font-size="24" font-weight="700" fill="#c2410c">Product facts</text>
+    <g font-size="20" fill="#334">
+      <text x="115" y="395">• Ceramic, 350 ml</text>
+      <text x="115" y="430">• Matte speckled glaze</text>
+      <text x="115" y="465">• Dishwasher safe</text>
+      <text x="115" y="500">• Handmade</text>
+    </g>
+    <path d="M525 315 h90" stroke="#ea580c" stroke-width="10" stroke-linecap="round"/>
+    <path d="M595 285 l35 30 l-35 30" fill="none" stroke="#ea580c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="660" y="110" width="460" height="410" rx="20" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+    <text x="695" y="165" font-size="26" font-weight="700" fill="#c2410c">Speckled Ceramic Mug</text>
+    <g fill="#e5e7eb">
+      <rect x="695" y="195" width="390" height="16" rx="8"/>
+      <rect x="695" y="225" width="340" height="16" rx="8"/>
+      <rect x="695" y="255" width="370" height="16" rx="8"/>
+    </g>
+    <g fill="#ea580c">
+      <circle cx="705" cy="320" r="8"/><circle cx="705" cy="370" r="8"/><circle cx="705" cy="420" r="8"/><circle cx="705" cy="470" r="8"/>
+    </g>
+    <g fill="#fdba74">
+      <rect x="730" y="312" width="300" height="16" rx="8"/>
+      <rect x="730" y="362" width="250" height="16" rx="8"/>
+      <rect x="730" y="412" width="320" height="16" rx="8"/>
+      <rect x="730" y="462" width="220" height="16" rx="8"/>
+    </g>
+  </g>
+</svg>
