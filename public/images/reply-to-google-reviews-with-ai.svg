@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eff6ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="80" y="110" width="500" height="300" rx="20" fill="#fff" stroke="#bfdbfe" stroke-width="4"/>
+    <circle cx="140" cy="170" r="28" fill="#dbeafe"/>
+    <text x="130" y="181" font-size="30" font-weight="700" fill="#1d4ed8">A</text>
+    <text x="185" y="165" font-size="24" font-weight="700" fill="#1e293b">Customer review</text>
+    <g fill="#f59e0b">
+      <path id="s" d="M200 182 l7 14 l15 2 l-11 10 l3 15 l-14 -7 l-14 7 l3 -15 l-11 -10 l15 -2 z"/>
+      <use href="#s" x="34"/><use href="#s" x="68"/><use href="#s" x="102" fill="#cbd5e1"/><use href="#s" x="136" fill="#cbd5e1"/>
+    </g>
+    <g font-size="22" fill="#334155">
+      <text x="115" y="275">“Food was great, but we waited</text>
+      <text x="115" y="310">45 minutes even with a booking.”</text>
+    </g>
+    <rect x="115" y="345" width="240" height="14" rx="7" fill="#e2e8f0"/>
+    <path d="M610 330 h80" stroke="#2563eb" stroke-width="10" stroke-linecap="round"/>
+    <path d="M670 300 l35 30 l-35 30" fill="none" stroke="#2563eb" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M740 220 h360 a20 20 0 0 1 20 20 v240 a20 20 0 0 1 -20 20 h-300 l-40 40 v-40 h-20 a20 20 0 0 1 -20 -20 v-240 a20 20 0 0 1 20 -20 z" fill="#fff" stroke="#93c5fd" stroke-width="4"/>
+    <text x="770" y="270" font-size="24" font-weight="700" fill="#1d4ed8">Owner reply (draft)</text>
+    <g font-size="20" fill="#334155">
+      <text x="770" y="315">Thanks for the kind words,</text>
+      <text x="770" y="347">and sorry about the wait.</text>
+      <text x="770" y="379">We've added more time</text>
+      <text x="770" y="411">between bookings…</text>
+    </g>
+    <rect x="770" y="440" width="120" height="36" rx="18" fill="#2563eb"/>
+    <text x="802" y="465" font-size="18" font-weight="700" fill="#fff">Reply</text>
+    <text x="80" y="560" font-size="40" font-weight="800" fill="#1e3a8a">Reply to Google reviews with AI</text>
+  </g>
+</svg>
