@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ecfdf5"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="80" y="110" width="400" height="410" rx="16" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <rect x="80" y="110" width="400" height="60" rx="16" fill="#d1fae5"/>
+    <text x="105" y="150" font-size="24" font-weight="700" fill="#047857">sales.csv</text>
+    <g stroke="#d1e7dd" stroke-width="2">
+      <path d="M80 230 h400 M80 290 h400 M80 350 h400 M80 410 h400 M80 470 h400"/>
+      <path d="M210 170 v350 M345 170 v350"/>
+    </g>
+    <g font-size="19" font-weight="700" fill="#047857">
+      <text x="100" y="208">Month</text><text x="228" y="208">Region</text><text x="362" y="208">Revenue</text>
+    </g>
+    <g fill="#d1e7dd">
+      <rect x="100" y="253" width="80" height="14" rx="7"/><rect x="100" y="313" width="70" height="14" rx="7"/><rect x="100" y="373" width="85" height="14" rx="7"/><rect x="100" y="433" width="65" height="14" rx="7"/><rect x="100" y="493" width="80" height="14" rx="7"/>
+      <rect x="230" y="253" width="90" height="14" rx="7"/><rect x="230" y="313" width="70" height="14" rx="7"/><rect x="230" y="373" width="80" height="14" rx="7"/><rect x="230" y="433" width="95" height="14" rx="7"/><rect x="230" y="493" width="60" height="14" rx="7"/>
+      <rect x="365" y="253" width="70" height="14" rx="7"/><rect x="365" y="313" width="90" height="14" rx="7"/><rect x="365" y="373" width="60" height="14" rx="7"/><rect x="365" y="433" width="80" height="14" rx="7"/><rect x="365" y="493" width="75" height="14" rx="7"/>
+    </g>
+    <path d="M510 315 h90" stroke="#059669" stroke-width="10" stroke-linecap="round"/>
+    <path d="M580 285 l35 30 l-35 30" fill="none" stroke="#059669" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="650" y="90" width="470" height="290" rx="16" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <path d="M700 340 h380" stroke="#94a3b8" stroke-width="3"/>
+    <g fill="#10b981">
+      <rect x="720" y="250" width="50" height="90" rx="6"/>
+      <rect x="800" y="200" width="50" height="140" rx="6"/>
+      <rect x="880" y="225" width="50" height="115" rx="6"/>
+      <rect x="960" y="150" width="50" height="190" rx="6"/>
+    </g>
+    <rect x="1035" y="120" width="50" height="220" rx="6" fill="#047857"/>
+    <rect x="650" y="410" width="470" height="130" rx="16" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <text x="680" y="460" font-size="24" font-weight="700" fill="#047857">Summary</text>
+    <rect x="680" y="482" width="380" height="14" rx="7" fill="#d1e7dd"/>
+    <rect x="680" y="508" width="280" height="14" rx="7" fill="#d1e7dd"/>
+  </g>
+</svg>
