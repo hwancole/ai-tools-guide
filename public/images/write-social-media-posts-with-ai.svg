@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f5f3ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="150" y="60" width="300" height="510" rx="36" fill="#1e1b4b"/>
+    <rect x="166" y="96" width="268" height="450" rx="18" fill="#fff"/>
+    <circle cx="196" cy="126" r="16" fill="#ddd6fe"/>
+    <rect x="222" y="118" width="120" height="14" rx="7" fill="#cbd5e1"/>
+    <rect x="182" y="156" width="236" height="200" rx="10" fill="#ede9fe"/>
+    <circle cx="250" cy="226" r="28" fill="#fbbf24"/>
+    <path d="M182 356 l80 -90 l60 60 l40 -40 l56 70 z" fill="#a78bfa"/>
+    <path d="M196 384 c-8 -10 -22 -4 -16 8 l16 14 l16 -14 c6 -12 -8 -18 -16 -8z" fill="#f43f5e"/>
+    <rect x="182" y="420" width="220" height="12" rx="6" fill="#e2e8f0"/>
+    <rect x="182" y="444" width="180" height="12" rx="6" fill="#e2e8f0"/>
+    <rect x="182" y="468" width="200" height="12" rx="6" fill="#e2e8f0"/>
+    <path d="M490 315 h80" stroke="#7c3aed" stroke-width="10" stroke-linecap="round"/>
+    <path d="M550 285 l35 30 l-35 30" fill="none" stroke="#7c3aed" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M640 130 h420 a20 20 0 0 1 20 20 v250 a20 20 0 0 1 -20 20 h-360 l-40 40 v-40 h-20 a20 20 0 0 1 -20 -20 v-250 a20 20 0 0 1 20 -20 z" fill="#fff" stroke="#c4b5fd" stroke-width="4"/>
+    <text x="670" y="180" font-size="24" font-weight="700" fill="#5b21b6">Draft caption</text>
+    <g font-size="22" fill="#334155">
+      <text x="670" y="230">Saturdays now come with</text>
+      <text x="670" y="265">sourdough. Crackly crust,</text>
+      <text x="670" y="300">€6 a loaf. Come early!</text>
+    </g>
+    <rect x="670" y="335" width="130" height="40" rx="20" fill="#ede9fe"/>
+    <text x="688" y="362" font-size="20" fill="#6d28d9">#sourdough</text>
+    <rect x="815" y="335" width="105" height="40" rx="20" fill="#ede9fe"/>
+    <text x="833" y="362" font-size="20" fill="#6d28d9">#bakery</text>
+    <text x="620" y="530" font-size="40" font-weight="800" fill="#1e1b4b">Social posts with AI</text>
+  </g>
+</svg>
