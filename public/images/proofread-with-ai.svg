@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#ecfdf5"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <rect x="120" y="70" width="520" height="490" rx="18" fill="#fff" stroke="#a7f3d0" stroke-width="4"/>
+    <rect x="160" y="115" width="260" height="18" rx="9" fill="#064e3b"/>
+    <g font-size="28" fill="#334155">
+      <text x="160" y="190">They will</text>
+      <text x="290" y="190" fill="#b91c1c">recieve</text>
+      <text x="400" y="190">the</text>
+      <text x="160" y="240">report tomorrow and</text>
+      <text x="160" y="290">send feedback soon.</text>
+    </g>
+    <path d="M290 200 q6 -6 12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0" fill="none" stroke="#dc2626" stroke-width="3"/>
+    <rect x="160" y="340" width="420" height="14" rx="7" fill="#e2e8f0"/>
+    <rect x="160" y="372" width="380" height="14" rx="7" fill="#e2e8f0"/>
+    <rect x="160" y="404" width="400" height="14" rx="7" fill="#e2e8f0"/>
+    <rect x="160" y="436" width="300" height="14" rx="7" fill="#e2e8f0"/>
+    <path d="M700 150 h360 a20 20 0 0 1 20 20 v200 a20 20 0 0 1 -20 20 h-300 l-40 40 v-40 h-20 a20 20 0 0 1 -20 -20 v-200 a20 20 0 0 1 20 -20 z" fill="#fff" stroke="#34d399" stroke-width="4"/>
+    <text x="730" y="200" font-size="24" font-weight="700" fill="#047857">Suggestion</text>
+    <text x="730" y="255" font-size="28" fill="#b91c1c" text-decoration="line-through">recieve</text>
+    <text x="730" y="305" font-size="28" font-weight="700" fill="#065f46">receive</text>
+    <circle cx="1010" cy="290" r="28" fill="#10b981"/>
+    <path d="M996 290 l10 10 l18 -20" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="700" y="520" font-size="44" font-weight="800" fill="#064e3b">Proofread with AI</text>
+  </g>
+</svg>
