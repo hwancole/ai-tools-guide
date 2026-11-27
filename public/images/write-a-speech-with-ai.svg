@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#eef2ff"/>
+  <g font-family="ui-sans-serif,Helvetica,Arial,sans-serif">
+    <!-- speech card -->
+    <rect x="110" y="80" width="560" height="380" rx="18" fill="#fff" stroke="#c7d2fe" stroke-width="4"/>
+    <rect x="150" y="120" width="220" height="18" rx="9" fill="#312e81"/>
+    <rect x="150" y="175" width="460" height="28" rx="6" fill="#fde68a"/>
+    <text x="160" y="197" font-size="24" fill="#1e293b">The first time I met them...</text>
+    <rect x="150" y="230" width="430" height="14" rx="7" fill="#e2e8f0"/>
+    <rect x="150" y="262" width="470" height="14" rx="7" fill="#e2e8f0"/>
+    <rect x="150" y="294" width="390" height="14" rx="7" fill="#e2e8f0"/>
+    <text x="150" y="342" font-size="22" font-weight="700" fill="#6366f1">[pause]</text>
+    <rect x="150" y="365" width="420" height="28" rx="6" fill="#fde68a"/>
+    <text x="160" y="387" font-size="24" fill="#1e293b">So please raise your glasses</text>
+    <rect x="150" y="420" width="300" height="14" rx="7" fill="#e2e8f0"/>
+    <!-- microphone -->
+    <rect x="830" y="90" width="120" height="200" rx="60" fill="#4f46e5"/>
+    <g stroke="#a5b4fc" stroke-width="4">
+      <line x1="845" y1="150" x2="935" y2="150"/>
+      <line x1="845" y1="185" x2="935" y2="185"/>
+      <line x1="845" y1="220" x2="935" y2="220"/>
+    </g>
+    <path d="M800 220 v20 a90 90 0 0 0 180 0 v-20" fill="none" stroke="#312e81" stroke-width="10" stroke-linecap="round"/>
+    <line x1="890" y1="330" x2="890" y2="395" stroke="#312e81" stroke-width="10"/>
+    <line x1="840" y1="400" x2="940" y2="400" stroke="#312e81" stroke-width="10" stroke-linecap="round"/>
+    <!-- timer -->
+    <circle cx="1060" cy="380" r="58" fill="#fff" stroke="#6366f1" stroke-width="6"/>
+    <path d="M1060 380 L1060 335" stroke="#312e81" stroke-width="6" stroke-linecap="round"/>
+    <path d="M1060 380 L1092 395" stroke="#312e81" stroke-width="6" stroke-linecap="round"/>
+    <text x="1060" y="475" font-size="26" font-weight="700" fill="#312e81" text-anchor="middle">3:00</text>
+    <text x="110" y="545" font-size="48" font-weight="800" fill="#1e1b4b">Write a speech with AI</text>
+  </g>
+</svg>
